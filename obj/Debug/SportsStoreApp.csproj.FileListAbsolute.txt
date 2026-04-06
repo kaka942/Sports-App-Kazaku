@@ -1,0 +1,281 @@
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\MainWindow.g.cs
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\App.g.cs
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+Z:\VisualStudio\MyProject\SportsStoreApp\bin\Debug\SportsStoreApp.exe.config
+Z:\VisualStudio\MyProject\SportsStoreApp\bin\Debug\SportsStoreApp.exe
+Z:\VisualStudio\MyProject\SportsStoreApp\bin\Debug\SportsStoreApp.pdb
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\MainWindow.baml
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.g.resources
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.exe
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.pdb
+Z:\VisualStudio\MyProject\SportsStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\Student 12\Desktop\Новая папка (8)\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\SportStoreApp\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsStoreApp_Content.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\vankr\OneDrive\Desktop\Новая папка\SportStoreApp\obj\Debug\SportsSt.63B4F81D.Up2Date
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp_Content.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\vankr\OneDrive\Desktop\Новая папка (2)\SportStoreApp\obj\Debug\SportsSt.63B4F81D.Up2Date
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp_Content.g.cs
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Новая папка (6)\SportStoreApp\obj\Debug\SportsSt.63B4F81D.Up2Date
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp_Content.g.cs
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\vankr\OneDrive\Desktop\123\Новая папка (6)\SportStoreApp\obj\Debug\SportsSt.63B4F81D.Up2Date
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.exe.config
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\Edit.g.cs
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\LoginForm.g.cs
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp_Content.g.cs
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.exe
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\Student\Desktop\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+C:\Users\Student\Desktop\SportStoreApp\bin\Debug\SportsStoreApp.exe
+C:\Users\Student\Desktop\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+C:\Users\Student\Desktop\SportStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\SportStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\Edit.baml
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\LoginForm.baml
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SportStoreApp\obj\Debug\SportsSt.63B4F81D.Up2Date
+D:\SportStoreApp\bin\Debug\SportsStoreApp.exe.config
+D:\SportStoreApp\bin\Debug\SportsStoreApp.exe
+D:\SportStoreApp\bin\Debug\SportsStoreApp.pdb
+D:\SportStoreApp\bin\Debug\EntityFramework.dll
+D:\SportStoreApp\bin\Debug\EntityFramework.xml
+D:\SportStoreApp\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+D:\SportStoreApp\obj\Debug\Edit.g.cs
+D:\SportStoreApp\obj\Debug\LoginForm.g.cs
+D:\SportStoreApp\obj\Debug\MainWindow.g.cs
+D:\SportStoreApp\obj\Debug\App.g.cs
+D:\SportStoreApp\obj\Debug\SportsStoreApp_Content.g.cs
+D:\SportStoreApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.cache
+D:\SportStoreApp\obj\Debug\SportsStoreApp_MarkupCompile.lref
+D:\SportStoreApp\obj\Debug\Edit.baml
+D:\SportStoreApp\obj\Debug\LoginForm.baml
+D:\SportStoreApp\obj\Debug\MainWindow.baml
+D:\SportStoreApp\obj\Debug\SportsStoreApp.g.resources
+D:\SportStoreApp\obj\Debug\SportsStoreApp.Properties.Resources.resources
+D:\SportStoreApp\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+D:\SportStoreApp\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+D:\SportStoreApp\obj\Debug\SportsSt.63B4F81D.Up2Date
+D:\SportStoreApp\obj\Debug\SportsStoreApp.exe
+D:\SportStoreApp\obj\Debug\SportsStoreApp.pdb
+C:\Users\Student\Desktop\SportStoreApp-main\bin\Debug\SportsStoreApp.exe.config
+C:\Users\Student\Desktop\SportStoreApp-main\bin\Debug\SportsStoreApp.exe
+C:\Users\Student\Desktop\SportStoreApp-main\bin\Debug\SportsStoreApp.pdb
+C:\Users\Student\Desktop\SportStoreApp-main\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\SportStoreApp-main\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.exe.config
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\Edit.g.cs
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\LoginForm.g.cs
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp_Content.g.cs
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp_MarkupCompile.cache
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp_MarkupCompile.lref
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\Edit.baml
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\LoginForm.baml
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.g.resources
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.Properties.Resources.resources
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsSt.63B4F81D.Up2Date
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.exe
+C:\Users\Student\Desktop\SportStoreApp-main\obj\Debug\SportsStoreApp.pdb
+D:\SportStoreApp-main\bin\Debug\SportsStoreApp.exe.config
+D:\SportStoreApp-main\bin\Debug\SportsStoreApp.exe
+D:\SportStoreApp-main\bin\Debug\SportsStoreApp.pdb
+D:\SportStoreApp-main\bin\Debug\EntityFramework.dll
+D:\SportStoreApp-main\bin\Debug\EntityFramework.xml
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.exe.config
+D:\SportStoreApp-main\obj\Debug\Edit.g.cs
+D:\SportStoreApp-main\obj\Debug\LoginForm.g.cs
+D:\SportStoreApp-main\obj\Debug\MainWindow.g.cs
+D:\SportStoreApp-main\obj\Debug\App.g.cs
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp_Content.g.cs
+D:\SportStoreApp-main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp_MarkupCompile.cache
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp_MarkupCompile.lref
+D:\SportStoreApp-main\obj\Debug\Edit.baml
+D:\SportStoreApp-main\obj\Debug\LoginForm.baml
+D:\SportStoreApp-main\obj\Debug\MainWindow.baml
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.g.resources
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.Properties.Resources.resources
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+D:\SportStoreApp-main\obj\Debug\SportsSt.63B4F81D.Up2Date
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.exe
+D:\SportStoreApp-main\obj\Debug\SportsStoreApp.pdb
+D:\SportStoreApp-Koloda-A\bin\Debug\SportsStoreApp.exe.config
+D:\SportStoreApp-Koloda-A\bin\Debug\SportsStoreApp.exe
+D:\SportStoreApp-Koloda-A\bin\Debug\SportsStoreApp.pdb
+D:\SportStoreApp-Koloda-A\bin\Debug\EntityFramework.dll
+D:\SportStoreApp-Koloda-A\bin\Debug\EntityFramework.xml
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.csproj.AssemblyReference.cache
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.exe.config
+D:\SportStoreApp-Koloda-A\obj\Debug\Edit.g.cs
+D:\SportStoreApp-Koloda-A\obj\Debug\LoginForm.g.cs
+D:\SportStoreApp-Koloda-A\obj\Debug\MainWindow.g.cs
+D:\SportStoreApp-Koloda-A\obj\Debug\App.g.cs
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp_Content.g.cs
+D:\SportStoreApp-Koloda-A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp_MarkupCompile.cache
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp_MarkupCompile.lref
+D:\SportStoreApp-Koloda-A\obj\Debug\Edit.baml
+D:\SportStoreApp-Koloda-A\obj\Debug\LoginForm.baml
+D:\SportStoreApp-Koloda-A\obj\Debug\MainWindow.baml
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.g.resources
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.Properties.Resources.resources
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.csproj.GenerateResource.cache
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.csproj.CoreCompileInputs.cache
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsSt.63B4F81D.Up2Date
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.exe
+D:\SportStoreApp-Koloda-A\obj\Debug\SportsStoreApp.pdb
